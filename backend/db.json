@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC PRETA",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "noteBook",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "name": "Samsung s20",
+      "price": 2000
+    },
+    {
+      "name": "aoba",
+      "price": 300,
+      "id": 4
+    },
+    {
+      "name": "aoba",
+      "price": 300,
+      "id": 5
+    },
+    {
+      "name": "Veio do Forms",
+      "price": "350",
+      "id": 6
+    },
+    {
+      "name": "IHASBVDIHBDIAHS",
+      "price": 321312,
+      "id": 7
+    },
+    {
+      "name": "GROnPOSANDOIJASNODKNASOPDKNASOPKDNPAOSKDNE EGGR",
+      "price": 350,
+      "id": 8
+    }
+  ]
+}
